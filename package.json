@@ -1,0 +1,20 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "this is my Pora design ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "website",
+    "design",
+    "communication"
+  ],
+  "author": "Oluseye",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "react": "^18.3.1"
+  }
+}
